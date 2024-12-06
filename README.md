@@ -42,6 +42,8 @@ This script, written in Selenium (yes, Selenium is teaching you about itself ðŸ˜
 - Automatically plays the first video result it finds.
 - Puts the video in fullscreen mode for a better learning experience.
 - And guess what? It even refreshes your terminal after you're done! ðŸŒ€
+ 
+![Description of GIF](https://github.com/SeifAmged/learn-selenium-with-videos/blob/main/Media1/1.gif)
 
 ## Features
 
@@ -54,6 +56,8 @@ This script, written in Selenium (yes, Selenium is teaching you about itself ðŸ˜
 
 The program automatically creates a file called `history.log` every time you run the script. This file keeps a record of which videos were played and when.  
 It's like your personal assistant that tracks your learning journey! ðŸ“œ
+
+![Description of GIF](https://github.com/SeifAmged/learn-selenium-with-videos/blob/main/Media1/2.gif)
 
 ### How to view the log:
 1. After running the script, go to the project folder where the script is saved.
